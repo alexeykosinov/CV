@@ -29,6 +29,6 @@ Formerly radio engineer, located in Moscow, looking for a interesting job, deepl
 ## Experience
 
 ### JSC «Research Institute of Precision Instruments» (2009 - present)
-    _**Senior Engineer** at air- and spaceborne radar systems for the Earth observation department_
+  _**Senior Engineer** at air- and spaceborne radar systems for the Earth observation department_
 
 
