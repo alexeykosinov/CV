@@ -29,7 +29,5 @@ radio engineering graduate
 ## Experience
 
 JSC «Research Institute of Precision Instruments» (2009 - present)
-
 Air- and spaceborne radar systems for the Earth observation department.
-
 *Senior Engineer*
