@@ -1,48 +1,37 @@
-## Your Name
+## Alexey Kosinov, 29 y.o., Moscow, Russia
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Formerly radio engineer, located in Moscow, looking for a interesting job, deeply connected with the embedded development electronic hardware and FPGA. Possesses skills, which required to perform complex tasks in the area of building digital control and acquisition systems for a remote sensing satellites. I have experience to develop firmware for a Xilinx FPGA's and 8- and 16-bit's Atmel microcontrollers.
 
 ## Skills
 
-#### This Skill
+#### Embedded Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- lower-speed interfaces such as I2C, SPI, 1-wire, UART - and various modification depends on the task
+- high-speed SerDes transceivers: custom development, tunning, debugging
+- fiber optics transceivers communication
+- connectivity between FPGA and DAC / ADC using LVDS-bus or JESD204 protocol
+- using system setting of FPGA to control internal resource susing ICAP (partial reconfiguration, multiboot, single event upset)
+- memory implementation such as RAM, ROM, FIFO
+- debugging using pattern generators and analysis them on the receive side
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Hardware Skills
+- manual tracing logical blocks on the crystal
+- pre-/post-topological analysis, delay analysis
+- strong lab skills, including the use of common test and measurement equipment (oscilloscopes, logic analyzers, etc.) to debug complex electronic circuits
+- start-to-finish design skills with industry-standard CAD/EDA tools, including schematic entry, PCB layout, component definition, and CAD library management (Mentor Graphics Xpedition, have some experience with Altium Designer and Allegro PCB)
+- PCB Analysis and Verification tool: Mentor Graphics HyperLynx and Cedence Sigrity
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+#### Moscow Technical University (2008 - 2014)
+radio engineering graduate
 
 ## Experience
+
+JSC «Research Institute of Precision Instruments» (2009 - present)
+Air- and spaceborne radar systems for the Earth observation department.
+Senior Engineer
+
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
