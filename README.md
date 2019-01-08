@@ -24,11 +24,11 @@ Formerly radio engineer, located in Moscow, looking for a interesting job, deepl
 ## Education
 
 ### Moscow Technical University (2008 - 2014)
-  radio engineering graduate
+  Radio engineering graduate
 
 ## Experience
 
 ### JSC «Research Institute of Precision Instruments» (2009 - present)
-    ***Senior Engineer** at air- and spaceborne radar systems for the Earth observation department*
+    _**Senior Engineer** at air- and spaceborne radar systems for the Earth observation department_
 
 
