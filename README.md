@@ -30,4 +30,5 @@ radio engineering graduate
 
 JSC «Research Institute of Precision Instruments» (2009 - present)
 Air- and spaceborne radar systems for the Earth observation department.
-*Senior Engineer
+
+*Senior Engineer*
