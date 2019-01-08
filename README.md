@@ -24,7 +24,7 @@ Formerly radio engineer, located in Moscow, looking for a interesting job, deepl
 ## Education
 
 ### Moscow Technical University (2008 - 2014)
-  Radio engineering graduate
+    Radio engineering graduate
 
 ## Experience
 
