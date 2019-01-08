@@ -1,10 +1,10 @@
-## Alexey Kosinov, 29 y.o., Moscow, Russia
+# Alexey Kosinov, 29 y.o., Moscow, Russia
 
 Formerly radio engineer, located in Moscow, looking for a interesting job, deeply connected with the embedded development electronic hardware and FPGA. Possesses skills, which required to perform complex tasks in the area of building digital control and acquisition systems for a remote sensing satellites. I have experience to develop firmware for a Xilinx FPGA's and 8- and 16-bit's Atmel microcontrollers.
 
 ## Skills
 
-#### Embedded Skills
+### Embedded Skills
 
 - lower-speed interfaces such as I2C, SPI, 1-wire, UART - and various modification depends on the task
 - high-speed SerDes transceivers: custom development, tunning, debugging
@@ -14,7 +14,7 @@ Formerly radio engineer, located in Moscow, looking for a interesting job, deepl
 - memory implementation such as RAM, ROM, FIFO
 - debugging using pattern generators and analysis them on the receive side
 
-#### Hardware Skills
+### Hardware Skills
 - manual tracing logical blocks on the crystal
 - pre-/post-topological analysis, delay analysis
 - strong lab skills, including the use of common test and measurement equipment (oscilloscopes, logic analyzers, etc.) to debug complex electronic circuits
@@ -23,11 +23,11 @@ Formerly radio engineer, located in Moscow, looking for a interesting job, deepl
 
 ## Education
 
-#### Moscow Technical University (2008 - 2014)
+### Moscow Technical University (2008 - 2014)
 radio engineering graduate
 
 ## Experience
 
-JSC «Research Institute of Precision Instruments» (2009 - present)
+### JSC «Research Institute of Precision Instruments» (2009 - present)
 Air- and spaceborne radar systems for the Earth observation department.
 *Senior Engineer*
