@@ -1,6 +1,6 @@
 # Alexey Kosinov, 29, Moscow, Russia
 
-:email: kosinov@protonmail.com
+:email: [LinkedIn](https://www.linkedin.com/in/a-kosinov/)
 
 Formerly radio engineer, located in Moscow, looking for a interesting job, deeply connected with the embedded development electronic hardware and FPGA. Possesses skills, which required to perform complex tasks in the area of building digital control and acquisition systems for a remote sensing satellites. I have experience to develop firmware for a Xilinx FPGA's and 8- and 16-bit's Atmel microcontrollers.
 
